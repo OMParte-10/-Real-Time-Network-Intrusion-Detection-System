@@ -1,0 +1,2 @@
+Deep Packet Inspection allows the NIDS to parse and analyze application layer data.
+Snort uses protocol decoders and preprocessors for this purpose.
